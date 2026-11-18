@@ -1,0 +1,17 @@
+# Archivos de configuración sensibles con claves de API privadas
+config/recaptcha.php
+config/keys.php
+.env
+.env.local
+
+# Archivos de sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs y temporales
+*.log
+tmp/
+scratch/
+
